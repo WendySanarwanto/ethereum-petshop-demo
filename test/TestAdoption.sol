@@ -6,11 +6,12 @@ import "../contracts/Adoption.sol";
 
 contract TestAdoption {
   Adoption adoption = Adoption(DeployedAddresses.Adoption());
+  uint adoptedPetId = 8;
 
   // Testing adopt function
   function testShouldBeAbleToAdoptPet() public {
     // Arrange
-    uint expectedAdoptedPetId = 8;
+    uint expectedAdoptedPetId = adoptedPetId;
 
     // Act
     uint actualAdoptedPetId = adoption.adopt(expectedAdoptedPetId);
@@ -22,7 +23,6 @@ contract TestAdoption {
   // Testing retrieval of single pet's owner
   function testShouldBeAbleToRetrievePetAdopter() public {
     // Arrange
-    uint adoptedPetId = 8;
     // Expected User, is this Test contract
     address expectedUser = this;
 
@@ -36,7 +36,6 @@ contract TestAdoption {
   // Testing retrieval of all pet's adopters
   function testShouldBeAbleToRetrieveAllPetAdopters() public {
     // Arrange
-    uint adoptedPetId = 8;
     // Expected User, is this Test contract
     address expectedUser = this;
     
