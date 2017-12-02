@@ -1,130 +1,130 @@
 [
   {
     "id": 0,
-    "name": "Frieda",
-    "picture": "images/scottish-terrier.jpeg",
+    "name": "Bogey",
+    "picture": "images/bogey.jpg",
     "age": 3,
-    "breed": "Scottish Terrier",
+    "breed": "Javanese Cat",
     "location": "Lisco, Alabama"
   },
   {
     "id": 1,
-    "name": "Gina",
-    "picture": "images/scottish-terrier.jpeg",
+    "name": "Kitty",
+    "picture": "images/Kitty.jpg",
     "age": 3,
-    "breed": "Scottish Terrier",
+    "breed": "Javanese Cat",
     "location": "Tooleville, West Virginia"
   },
   {
     "id": 2,
-    "name": "Collins",
-    "picture": "images/french-bulldog.jpeg",
+    "name": "Sylvester",
+    "picture": "images/sylvester.jpg",
     "age": 2,
-    "breed": "French Bulldog",
+    "breed": "Javanese Cat",
     "location": "Freeburn, Idaho"
   },
   {
     "id": 3,
-    "name": "Melissa",
-    "picture": "images/boxer.jpeg",
+    "name": "Shiro",
+    "picture": "images/shiro.jpg",
     "age": 2,
-    "breed": "Boxer",
+    "breed": "Angora",
     "location": "Camas, Pennsylvania"
   },
   {
     "id": 4,
     "name": "Jeanine",
-    "picture": "images/french-bulldog.jpeg",
+    "picture": "images/bogey.jpg",
     "age": 2,
-    "breed": "French Bulldog",
+    "breed": "Javanese Cat",
     "location": "Gerber, South Dakota"
   },
   {
     "id": 5,
     "name": "Elvia",
-    "picture": "images/french-bulldog.jpeg",
+    "picture": "images/Kitty.jpg",
     "age": 3,
-    "breed": "French Bulldog",
+    "breed": "Javanese Cat",
     "location": "Innsbrook, Illinois"
   },
   {
     "id": 6,
     "name": "Latisha",
-    "picture": "images/golden-retriever.jpeg",
+    "picture": "images/sylvester.jpg",
     "age": 3,
-    "breed": "Golden Retriever",
+    "breed": "Javanese Cat",
     "location": "Soudan, Louisiana"
   },
   {
     "id": 7,
     "name": "Coleman",
-    "picture": "images/golden-retriever.jpeg",
+    "picture": "images/shiro.jpg",
     "age": 3,
-    "breed": "Golden Retriever",
+    "breed": "Angora",
     "location": "Jacksonwald, Palau"
   },
   {
     "id": 8,
     "name": "Nichole",
-    "picture": "images/french-bulldog.jpeg",
+    "picture": "images/bogey.jpg",
     "age": 2,
-    "breed": "French Bulldog",
+    "breed": "Javanese Cat",
     "location": "Honolulu, Hawaii"
   },
   {
     "id": 9,
     "name": "Fran",
-    "picture": "images/boxer.jpeg",
+    "picture": "images/Kitty.jpg",
     "age": 3,
-    "breed": "Boxer",
+    "breed": "Javanese Cat",
     "location": "Matheny, Utah"
   },
   {
     "id": 10,
     "name": "Leonor",
-    "picture": "images/boxer.jpeg",
+    "picture": "images/sylvester.jpg",
     "age": 2,
-    "breed": "Boxer",
+    "breed": "Javanese Cat",
     "location": "Tyhee, Indiana"
   },
   {
     "id": 11,
     "name": "Dean",
-    "picture": "images/scottish-terrier.jpeg",
+    "picture": "images/shiro.jpg",
     "age": 3,
-    "breed": "Golden Retriever",
+    "breed": "Angora",
     "location": "Windsor, Montana"
   },
   {
     "id": 12,
     "name": "Stevenson",
-    "picture": "images/french-bulldog.jpeg",
+    "picture": "images/bogey.jpg",
     "age": 3,
-    "breed": "French Bulldog",
+    "breed": "Javanese Cat",
     "location": "Kingstowne, Nevada"
   },
   {
     "id": 13,
     "name": "Kristina",
-    "picture": "images/golden-retriever.jpeg",
+    "picture": "images/Kitty.jpg",
     "age": 4,
-    "breed": "Golden Retriever",
+    "breed": "Javanese Cat",   
     "location": "Sultana, Massachusetts"
   },
   {
     "id": 14,
     "name": "Ethel",
-    "picture": "images/golden-retriever.jpeg",
+    "picture": "images/sylvester.jpg",
     "age": 2,
-    "breed": "Golden Retriever",
+    "breed": "Javanese Cat",
     "location": "Broadlands, Oregon"
   },
   {
     "id": 15,
     "name": "Terry",
-    "picture": "images/golden-retriever.jpeg",
+    "picture": "images/shiro.jpg",
     "age": 2,
-    "breed": "Golden Retriever",
+    "breed": "Angora",
     "location": "Dawn, Wisconsin"
   }
 ]
